@@ -1,0 +1,14 @@
+{
+  "name": "sanber-tugaspekan3-devy",
+  "version": "1.0.0",
+  "description": "Sanber - Tugas Pekanan 3 Javascript - Devy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm "
+  },
+  "author": "Devy Nur Sa'diah",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
