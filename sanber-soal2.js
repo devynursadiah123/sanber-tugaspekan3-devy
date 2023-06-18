@@ -1,7 +1,7 @@
 // Tugas pekanan 3 - Soal2.js
 // Petunjuk pengerjaan 
 
-//Misalkan terdapat response API sebagai berikut. 
+//Misalkan terdapat response API sebagai berikut :
 
 let productBin = {
   "requestId": null,

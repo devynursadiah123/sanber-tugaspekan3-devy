@@ -10,7 +10,7 @@ Hint : gunakan rumus sqrt(x)*/
 //Jawaban dari Soal1.js
 console.log("Program Untuk Mencari Akar Kuadrat Dari Bilangan Genap")
 
-//modul untuk membaca input dari user melalui terminal
+//Modul untuk membaca input dari user melalui terminal
 const readline = require('readline');
 
 const rl = readline.createInterface({
